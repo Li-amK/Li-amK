@@ -1,4 +1,4 @@
-Basically just Programming & Minecraft
+<!--Basically just Programming & Minecraft-->
 
 <!--**latest projects:**
 - https://status.kauper.de
