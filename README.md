@@ -1,4 +1,4 @@
-On Mercury a day lasts 1,408 hours. Just like every Monday does on earth...
+On Mercury, a day lasts 1,408 hours. Just like every Monday does on earth…
 
 <!--Basically just Programming & Minecraft
 
