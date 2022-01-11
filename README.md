@@ -1,4 +1,8 @@
-### Hi there 👋
+## Programming & Minecraft
+**latest projects:**
+- pixel art
+- https://status.kauper.de
+- [Chatbot](https://https://github.com/Li-amK/Chatbot)
 
 <!--
 **Li-amK/Li-amK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
