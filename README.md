@@ -1,7 +1,6 @@
 Programming & Minecraft
 
 **latest projects:**
-- pixel art
 - https://status.kauper.de
 - [Chatbot](https://https://github.com/Li-amK/Chatbot)
 
