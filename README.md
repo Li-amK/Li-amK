@@ -1,6 +1,8 @@
-<!--Basically just Programming & Minecraft-->
+On Mercury a day lasts 1,408 hours. Just like every Monday does on earth...
 
-<!--**latest projects:**
+<!--Basically just Programming & Minecraft
+
+**latest projects:**
 - https://status.kauper.de
 - [Chatbot](https://https://github.com/Li-amK/Chatbot)
 -->
