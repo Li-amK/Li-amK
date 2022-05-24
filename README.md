@@ -1,22 +1,8 @@
 On Mercury, a day lasts 1,408 hours. Just like every Monday does on earth…
 
-<!--Basically just Programming & Minecraft
-
-**latest projects:**
-- https://status.kauper.de
-- [Chatbot](https://https://github.com/Li-amK/Chatbot)
--->
-<!--
-**Li-amK/Li-amK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Li-amK&show_icons=true&theme=radical&title_color=FF3C00&icon_color=FF3C00&hide_border=true&border_radius=8&hide=contribs&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Li-amK&layout=compact&theme=radical&title_color=FF3C00&icon_color=FF3C00&hide_border=true&border_radius=8" />
+</a>
